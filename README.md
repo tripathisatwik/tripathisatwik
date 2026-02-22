@@ -1,6 +1,6 @@
 ## Hi there 👋
-- 🔭 I’m currently working on CipherBox: File Encryption System in Java
-- 🌱 I’m currently learning OOPS Python 
+- 🔭 I’m currently working on Real-Time Event Analytics Pipeline
+- 🌱 I’m currently learning Deep Learning Models  
 - 👯 I’m looking to collaborate on ML based Projects 
 - 🤔 I’m looking for help with learning to train modules 
 - 💬 Ask me about my projcts 
